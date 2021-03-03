@@ -19,7 +19,7 @@
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_node_icon_130301.png" alt="logo node"></a>
 <a href="#"><img width="44" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png" alt="logo mysql"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_mongo_icon_130383.png" alt="logo mongo"></a>
-<a href="#"><img width="38" src="https://img.icons8.com/color/452/microsoft-sql-server.png" alt="logo sqlsqerver"></a>
+<a href="#"><img width="38" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" alt="logo sqlsqerver"></a>
 
 <h3>Mobile:</h3>
 <a href="#"><a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" alt="logo java"></a>
