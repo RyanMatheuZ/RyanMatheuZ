@@ -14,7 +14,6 @@
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_logo_icon_146619.png" alt="logo bootstrap"></a>
 
 <h3>Back-End:</h3>
-<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" alt="logo java"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_php_icon_130266.png" alt="logo php"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_node_icon_130301.png" alt="logo node"></a>
 <a href="#"><img width="44" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png" alt="logo mysql"></a>
