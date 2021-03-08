@@ -9,8 +9,10 @@
 <h3>Front-End:</h3>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" alt="logo html"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_css_icon_130661.png" alt="logo css"></a>
-<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_js_official_icon_130509.png" alt="logo js"></a>
+<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_sass_icon_130182.png" alt="logo sass"></a>
+<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/less_plain_wordmark_logo_icon_146437.png" alt="logo less"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_vue_icon_130078.png" alt="logo vue"></a>
+<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_nuxt_icon_130293.png" alt="logo nuxt"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_logo_icon_146619.png" alt="logo bootstrap"></a>
 
 <h3>Back-End:</h3>
@@ -21,7 +23,7 @@
 <a href="#"><img width="40" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" alt="logo sqlsqerver"></a>
 
 <h3>Mobile:</h3>
-<a href="#"><a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" alt="logo java"></a>
+<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" alt="logo java"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png" alt="logo reactnative"></a>
 
 <h3>Find me here: 👇🏼</h3>
