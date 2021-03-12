@@ -1,6 +1,6 @@
 <h1 align="center">What's Up, I'm Ryan 👋🏼</h1>
 
-<p>My name is Ryan Matheus Oliveira, I live in Brazil!</p>
+<p>My name is Ryan Matheus de Oliveira, I live in Brazil!</p>
 
 <p>I am a student of the Internet Systems Technology course, at FATEC - Faculty of Technology of Taquaritinga. I also have a Computer Technician course at ETEC Sylvio de Mattos Carvalho.</p>
 
