@@ -2,7 +2,7 @@
 
 <p>My name is Ryan Matheus de Oliveira, I live in Brazil!</p>
 
-<p>I am a student of the Internet Systems Technology course, at FATEC - Faculty of Technology of Taquaritinga. I also have a Computer Technician course at ETEC Sylvio de Mattos Carvalho.</p>
+<p>I am a student of the Internet Systems Technology course, at FATEC - Faculty of Technology of Taquaritinga. I also have a IT Technician course at ETEC Sylvio de Mattos Carvalho.</p>
 
 <p>My study focus is on Front-End, Back-End and Mobile development!</p>
 
