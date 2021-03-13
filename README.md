@@ -11,10 +11,12 @@
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_css_icon_130661.png" alt="logo css"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_sass_icon_130182.png" alt="logo sass"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/less_plain_wordmark_logo_icon_146437.png" alt="logo less"></a>
+<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_tailwind_icon_130128.png" alt="logo tailwind"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_js_official_icon_130509.png" alt="logo js"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_vue_icon_130078.png" alt="logo vue"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_nuxt_icon_130293.png" alt="logo nuxt"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_logo_icon_146619.png" alt="logo bootstrap"></a>
+<a href="#"><img width="40" src="https://iconape.com/wp-content/png_logo_vector/bulma-logo.png" alt="logo bulma"></a>
 
 <h3>Back-End:</h3>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_php_icon_130266.png" alt="logo php"></a>
