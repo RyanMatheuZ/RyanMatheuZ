@@ -16,7 +16,7 @@
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_vue_icon_130078.png" alt="logo vue"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_nuxt_icon_130293.png" alt="logo nuxt"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_logo_icon_146619.png" alt="logo bootstrap"></a>
-<a href="#"><img width="35" src="https://iconape.com/wp-content/png_logo_vector/bulma-logo.png" alt="logo bulma"></a>
+<a href="#"><img width="30" src="https://iconape.com/wp-content/png_logo_vector/bulma-logo.png" alt="logo bulma"></a>
 
 <h3>Back-End:</h3>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_php_icon_130266.png" alt="logo php"></a>
