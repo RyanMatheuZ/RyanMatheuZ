@@ -29,7 +29,7 @@
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" alt="logo java"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png" alt="logo reactnative"></a>
 
-<h3>Mobile:</h3>
+<h3>Edition:</h3>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png" alt="logo photoshop"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282143-adobe-illustrator-cc-creative-cloud_78298.png" alt="logo illustrator"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Premiere_Pro_23542.png" alt="logo premiere"></a>
