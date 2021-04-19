@@ -29,14 +29,6 @@
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" alt="logo java"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png" alt="logo reactnative"></a>
 
-<h3>Edition:</h3>
-<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png" alt="logo photoshop"></a>
-<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282143-adobe-illustrator-cc-creative-cloud_78298.png" alt="logo illustrator"></a>
-<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Premiere_Pro_23542.png" alt="logo premiere"></a>
-<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282160-adobe-after-effects-cc-creative-cloud-digital-visual-effects-motion-graphics-and-compositing-application_78299.png" alt="logo after"></a>
-<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282180-adobe-audition-cc-creative-cloud_78302.png" alt="logo audition"></a>
-<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282208-adobe-indesign-cc-creative-cloud-desktop-publishing-software-application_78307.png" alt="logo indesign"></a>
-
 <h3>Find me here: 👇🏼</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanmatheus/)](https://www.linkedin.com/in/ryanmatheus/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oryan424@gmail.com)](mailto:oryan424@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/isryanmatheus/)](https://www.instagram.com/isryanmatheus/) 
