@@ -13,6 +13,8 @@
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/less_plain_wordmark_logo_icon_146437.png" alt="logo less"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_tailwind_icon_130128.png" alt="logo tailwind"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_js_official_icon_130509.png" alt="logo js"></a>
+<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png" alt="logo react"></a>
+<a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/128/next_js_logo_icon_145038.png" alt="logo next"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_vue_icon_130078.png" alt="logo vue"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_nuxt_icon_130293.png" alt="logo nuxt"></a>
 <a href="#"><img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_logo_icon_146619.png" alt="logo bootstrap"></a>
