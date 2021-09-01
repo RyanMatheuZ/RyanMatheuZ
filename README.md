@@ -4,7 +4,7 @@
 
 I'm Ryan Oliveira, a Web Developer from Brazil. I'm currently graduating in Internet Systems (Fatec Taquaritinga) and I'm an IT Technician (Etec Matão). I have knowledge in the Web Development and Web Design sectors.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmatheuz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmatheuz&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" alt="HTML"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" alt="CSS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45px" alt="SASS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="45px" alt="Less"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="45px" alt="Bootstrap"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45px" alt="TailwindCSS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="45px" alt="Bulma"> 
 
