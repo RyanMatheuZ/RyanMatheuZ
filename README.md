@@ -1,6 +1,6 @@
 ## What's up, I'm Ryan 👋🏼
 
-<img src="https://media1.giphy.com/media/PSKAppO2LH56w/giphy.webp?cid=ecf05e47hggb7hr43rrio4eaws7d86ha2f90lwyebzbnlrjl&rid=giphy.webp&ct=g" alt="GOO BRAZIIIL" title="GOO BRAZIIIL" width="245" align="right">
+<img src="https://media1.giphy.com/media/PSKAppO2LH56w/giphy.webp?cid=ecf05e47hggb7hr43rrio4eaws7d86ha2f90lwyebzbnlrjl&rid=giphy.webp&ct=g" alt="GOO BRAZIIIL" title="GOO BRAZIIIL" width="250" align="right">
 
 I'm Ryan Oliveira, a Web Developer from Brazil. I'm currently graduating in Internet Systems and I'm an IT Technician. I have knowledge in the Web Development and Web Design sectors.
 
