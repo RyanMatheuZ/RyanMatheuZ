@@ -2,7 +2,7 @@
 
 <img src="https://media1.giphy.com/media/PSKAppO2LH56w/giphy.webp?cid=ecf05e47hggb7hr43rrio4eaws7d86ha2f90lwyebzbnlrjl&rid=giphy.webp&ct=g" alt="GOO BRAZIIIL" title="GOO BRAZIIIL" width="250" align="right">
 
-I'm Ryan Oliveira, a Web Developer from Brazil. I'm currently graduating in Internet Systems and I'm an IT Technician. I have knowledge in the Web Development and Web Design sectors.
+I'm Ryan Oliveira, Web Developer from Brazil. I'm currently graduating in Internet Systems and I'm an IT Technician. I have knowledge in the Web Development and Web Design sectors.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmatheuz&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
