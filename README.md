@@ -7,5 +7,3 @@ Being able to build software, collaborate in a team, absorb and share knowledge,
 Throughout this journey, I have worked with several technologies and services, such as: HTML, CSS, SASS, Tailwind, Styled-Components, Bootstrap, Material UI, JavaScript (ES), jQuery, TypeScript, Node, Express, Angular, Vue, Nuxt, React, Next, React Native, Expo, Jest, Figma, Firebase, MongoDB, Payment Checkouts, and many others...
 
 Additionally, I recognize the immense potential of technology as a powerful tool to drive impact and promote positive transformation in society.
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/isryanmatheus) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/ryanmatheus)
